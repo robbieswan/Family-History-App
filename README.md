@@ -15,7 +15,7 @@ Languages and tools include:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+A list of websites that were helpful in this project:
 * [App Tutorial](https://developer.android.com/training/basics/firstapp/starting-activity)
 * [More Andriod Studio Resources](https://developer.android.com/codelabs)
 
