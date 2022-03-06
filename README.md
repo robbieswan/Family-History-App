@@ -2,7 +2,7 @@
 
 This app was created to simplify how people can view their relationship to their ancestors. While current full implementation is under way, the app currently contains two screens that prompt the user first for an input of the type of relationship they would like to see (for example: Grandfather, second cousin, or great great grandmother) and then are led to the second screen that lists that type of relationship and will soon list the corresponding relatives name.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/RpPwu5ugh84)
 
 # Development Environment
 
